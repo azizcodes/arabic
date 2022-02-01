@@ -6,7 +6,3 @@
 ## Songs
 1. [ما أنساك لو تنسى](https://azizcodes.github.io/arabic/mansak.html)
 
-<video id="video" controls preload="metadata">
-   <source src="mansak.mp4" type="video/mp4">
-   <track label="English" kind="subtitles" srclang="en" src="mansak.vtt" default>
-</video>
