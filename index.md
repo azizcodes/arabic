@@ -6,4 +6,5 @@
 
 ## Songs
 1. [ما أنساك لو تنسى](https://azizcodes.github.io/arabic/mansak.html)
+2. [sakat 3ank](https://azizcodes.github.io/arabic/sakat3ank.html)
 
