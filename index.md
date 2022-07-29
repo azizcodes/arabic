@@ -7,3 +7,4 @@
 ## Songs
 1. [ما أنساك لو تنسى](https://azizcodes.github.io/arabic/mansak.html)
 2. [سكت عنك](https://azizcodes.github.io/arabic/sakat3ank.html)
+3. [غرامك شي عجيب](https://azizcodes.github.io/arabic/miami.html)
