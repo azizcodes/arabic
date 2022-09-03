@@ -9,4 +9,4 @@
 2. [سكت عنك](https://azizcodes.github.io/arabic/sakat3ank.html)
 3. [غرامك شي عجيب](https://azizcodes.github.io/arabic/miami.html)
 4. [كافي](https://azizcodes.github.io/arabic/kafi.html)
-5. [حزين](https://azizcodes.github.io/arabic/hazen.html)
+5. [حزين](https://azizcodes.github.io/arabic/hazeen.html)
